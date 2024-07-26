@@ -6,7 +6,7 @@ import time
 async def scrape_adviser_info(url):
     async with async_playwright() as p:
         keyword = input("Enter Full KeyWord: ")
-        browser = await p.chromium.launch(headless=False)
+        browser = await p.chromium.launch()
         page = await browser.new_page()
         await page.goto(url)
         await asyncio.sleep(5)
