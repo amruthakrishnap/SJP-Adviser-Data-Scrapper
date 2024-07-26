@@ -35,7 +35,7 @@ This script scrapes adviser information from the St. James's Place website, spec
 1. **Run the script**.
 
     ```bash
-    python scrape_adviser_info.py
+    python main.py
     ```
 
 2. **Follow the prompt** to enter the keyword for the location search.
