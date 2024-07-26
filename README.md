@@ -12,8 +12,8 @@ This script scrapes adviser information from the St. James's Place website, spec
 1. **Clone the repository** (or download the script).
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/amruthakrishnap/SJP-Adviser-Data-Scrapper
+    cd SJP-Adviser-Data-Scrapper
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended).
@@ -42,6 +42,7 @@ This script scrapes adviser information from the St. James's Place website, spec
 
     ```plaintext
     Enter Full KeyWord: [Type the location keyword and press Enter]
+    Example : "Bath UK" , "London UK" , "Exeter UK"
     ```
 
 3. **The script will automatically navigate** to the St. James's Place website,
