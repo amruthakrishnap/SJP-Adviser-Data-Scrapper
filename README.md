@@ -45,4 +45,8 @@ This script scrapes adviser information from the St. James's Place website, spec
     Example : "Bath UK" , "London UK" , "Exeter UK"
     ```
 
-3. **The script will automatically navigate** to the St. James's Place website,
+3. **The script will automatically navigate** to the St. James's Place website
+   ```plaintext
+    You will get each script running status..!
+    Once the Scrapping get's over data will save to adviser_info.csv
+    ```
