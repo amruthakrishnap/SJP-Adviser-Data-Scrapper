@@ -1,5 +1,3 @@
-# SJP-Adviser-Data-Scrapper
-
 # Adviser Info Scraper
 
 This script scrapes adviser information from the St. James's Place website, specifically from the 'Find an Adviser' page. It extracts various details such as profile image, adviser name, organization, phone number, email, website, and locations. The results are saved to a CSV file.
